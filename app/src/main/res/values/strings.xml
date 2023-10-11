@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Actividad 27.09</string>
+    <string name="start">Empezar</string>
+    <string name="tiempo">5</string>
+    <string name="uwu">Bienvenida!</string>
+    <string name="imp">Implicitas!</string>
+    <string name="exp">Explicitas!</string>
+</resources>
